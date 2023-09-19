@@ -1,0 +1,49 @@
+/*Asi se pone un comentario*/
+
+body{
+    background-color:#55969e;
+    color:#5a2561;
+    font-family:'Pacifico', cursive;
+
+}
+h1 {
+color:#322153 ;
+}
+
+h3{
+    color:#5d4f89
+}
+o1{
+    color: black;
+}
+ul{
+    color: #c7c8ff;
+}
+
+.img1{
+    width: 264px;
+    height: 191px;
+    border-style: double;
+    border-color: #d5aceb;
+    border-width: 5px;
+    padding: 15px;
+    border-width: 15px;
+}
+.img2{
+    width: 264px;
+    height: 191px;
+    border-style: double;
+    border-color: #f8efc8;
+    border-width: 5px;
+    padding: 15px;
+    margin: 15px;
+}
+.img3{
+    width: 264px;
+    height: 191px;
+    border-style: double;
+    border-color: #b4a16b;
+    border-width: 5px;
+    padding: 15px;
+    margin: 15px;
+}
